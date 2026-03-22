@@ -1,0 +1,3 @@
+# Photo Cleaner & Organizer
+
+Initializing repository...
